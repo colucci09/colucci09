@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/colucci.png" width="100%">
+</p>
 
-<!--
-**colucci09/colucci09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">COLUCCI</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  reverse engineering • software security • backend development
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cpp,rust,mysql,nginx,apache" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IDA%20Pro-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Binary%20Ninja-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Deobfuscation-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Binary%20Analysis-0d1117?style=for-the-badge">
+</p>
+
+<br>
+
+<p align="center">
+software security • reverse engineering • binary analysis • deobfuscation
+</p>
